@@ -20,8 +20,10 @@
   },
   "homepage": "https://github.com/Lakhan3011/mern-auth#readme",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
+    "js": "^0.1.0",
     "mongoose": "^8.3.1",
     "nodemon": "^3.1.0"
   }
